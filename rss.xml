@@ -4,7 +4,7 @@
         <description><![CDATA[impromptustudio]]></description>
         <link>https://thegrid.ai/impromptustudio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 20:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 20:19:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/impromptustudio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mission]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/impromptustudio/mission/index.html</link>
             <guid isPermaLink="false">ba1788f0-e3de-4040-9599-bcbb3f837a40</guid>
             <pubDate>Wed, 30 Mar 2016 20:16:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/373c1807-b382-4bf2-b37f-c34072249ae9.jpg">]]></description>
+            <link>https://thegrid.ai/impromptustudio/impromptustudio-is-an-award-winning-educational-group-of-des/index.html</link>
+            <guid isPermaLink="false">533d943f-66c7-44c4-b021-f1e82cfbbbd4</guid>
+            <pubDate>Wed, 30 Mar 2016 20:19:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
