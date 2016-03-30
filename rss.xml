@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[impromptustudio]]></title>
         <description><![CDATA[impromptustudio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/impromptustudio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 19:44:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 19:56:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/impromptustudio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mission]]></title>
-            <description><![CDATA[<article><h1>Mission</h1><p>Our strive is worthy, we care to do good. Our passion is design and we constantly aim to improve. Our goal—to change design education and the world!</p></article>]]></description>
-            <link>undefinedmission/index.html</link>
+            <description><![CDATA[<article><h1>Mission</h1><p>Our strive is worthy, we care to do good. Our passion is design and we constantly aim to improve. Our goal—to change design education and the world!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44ecbbec-88b1-476f-8253-4a6d7fcae940.jpg"></article>]]></description>
+            <link>https://thegrid.ai/impromptustudio/mission/index.html</link>
             <guid isPermaLink="false">ba1788f0-e3de-4040-9599-bcbb3f837a40</guid>
-            <pubDate>Wed, 30 Mar 2016 19:43:55 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2016 19:56:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
